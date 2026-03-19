@@ -1,0 +1,7 @@
+C:\Users\jordy\source\repos\PatronComposite\bin\Debug\PatronComposite.exe.config
+C:\Users\jordy\source\repos\PatronComposite\bin\Debug\PatronComposite.exe
+C:\Users\jordy\source\repos\PatronComposite\bin\Debug\PatronComposite.pdb
+C:\Users\jordy\source\repos\PatronComposite\obj\Debug\PatronComposite.csproj.AssemblyReference.cache
+C:\Users\jordy\source\repos\PatronComposite\obj\Debug\PatronComposite.csproj.CoreCompileInputs.cache
+C:\Users\jordy\source\repos\PatronComposite\obj\Debug\PatronComposite.exe
+C:\Users\jordy\source\repos\PatronComposite\obj\Debug\PatronComposite.pdb
